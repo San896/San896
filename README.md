@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./images.jpg" alt="failed banner img" width="900" height="200"> </h1>
+<h1 align="center"> <img src="./img/images.jpg" alt="failed banner img" width="900" height="200"> </h1>
 <h3 align="center">Hi 👋I'm Santiago Fernandez and I am a Full-Stack Developer Jr. I formed myself in the SoyHenry bootcamp, an intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning. Technologies I work with: 
 <h3>Javascript | SQL | React | Redux | HTML | Bootstrap | CSS | Node.js | Express | Sequelize | PostgreSQL | SQLite | Scrum | GIT - GIT-flow |</h3>
 <h3>As a Full-Stack, I know how to perform myself in both, Front-End and Back-End, without an specific preference over any of them at the moment of working. I am very good at solving and facing problems and new tasks. I have knowledge in Git and teamwork with agile methodologies, SCRUM. I am always learning new technologies and mastering the ones I already know.</h3></h3>
@@ -7,19 +7,23 @@
 
 - ⚡My proyect [Athenas Club](https://github.com/MATarg81/proyecto-final)
    <h3> SPA, administrative App for a club with an e-commerce integrated</h3>
-    <img src="./LandAthenas.png" alt="failed banner img" width="350" height="300">
-    <img src="./tienda.png" alt="failed banner img" width="350" height="300">
-    <img src="./mp.png" alt="failed banner img" width="350" height="300">
+    <img src="./img/LandAthenas.png" alt="failed banner img" width="350" height="300">
+    <img src="./img/tienda.png" alt="failed banner img" width="350" height="300">
+    <img src="./img/mp.png" alt="failed banner img" width="350" height="300">
+
 
 - ⚡My Food App [FoodApp](https://github.com/San896/PIFood)
   <h3> SPA, a App of Food Recipes, yo can search, filter and create recipes</h3>
-    <img src="./Landing.png" alt="failed banner img" width="350" height="300">
-    <img src="./home.png" alt="failed banner img" width="350" height="300">
-    <img src="./create.png" alt="failed banner img" width="350" height="300">
+    <img src="./img/Landing.png" alt="failed banner img" width="350" height="300">
+    <img src="./img/home.png" alt="failed banner img" width="350" height="300">
+    <img src="./img/create.png" alt="failed banner img" width="350" height="300">
   <h3> Contact me! </h3>
+
 - 📫 How to reach me **sannlfernandez8@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-fernandez896/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-fernandez896/" height="30" width="40" /></a>
 </p>
@@ -30,3 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=san896&show_icons=true&locale=en&layout=compact" alt="san896" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=san896&show_icons=true&locale=en" alt="san896" /></p>
+//
