@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./img/banner sf.png" alt="failed banner img" width="950" height="250"> </h1>
+<h1 align="center"> <img src="./img/bannersf.png" alt="failed banner img" width="950" height="250"> </h1>
 <h3 align="center">Hi 👋I'm Santiago Fernandez and I am a Full-Stack Developer Jr. I formed myself in the SoyHenry bootcamp, an intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning. Technologies I work with: 
 <h3>Javascript | SQL | React | Redux | HTML | Bootstrap | CSS | Node.js | Express | Sequelize | PostgreSQL | SQLite | Scrum | GIT - GIT-flow |</h3>
 
