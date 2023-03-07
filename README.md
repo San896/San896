@@ -3,11 +3,11 @@
 
 <h3>Javascript | SQL | React | Redux | HTML | Bootstrap | CSS | Node.js | Express | Sequelize | PostgreSQL | SQLite | Scrum | GIT - GIT-flow |</h3>
 
-<h3>As a Full-Stack, I know how to perform myself in both, Front-End and Back-End, without an specific preference over any of them at the moment of working. I am very good at solving and facing problems and new tasks. I have knowledge in Git and teamwork with agile methodologies, SCRUM. I am always learning new technologies and mastering the ones I already know.</h3></h3>
+<h3>As a Full-Stack, I know how to perform myself in DB, Front-End and Back-End, without an specific preference over any of them at the moment of working. I am very good at solving and facing problems and new tasks. I have knowledge in Git and teamwork with agile methodologies, SCRUM. I am always learning new technologies and mastering the ones I already know.</h3></h3>
 
 <h2>👨‍💻 My Proyects: </h2>
 
-- ⚡My proyect - AthenasClubApp
+- ⚡Proyect - AthenasClubApp
 [Athenas Club](https://proyecto-final-one-murex.vercel.app) --
 [Athenas Club Repo](https://github.com/MATarg81/proyecto-final)
    <h3> SPA, administrative App for a club with an e-commerce integrated</h3>
@@ -17,12 +17,23 @@
 
 
 - ⚡My Food App 
-[FoodApp](https://github.com/San896/PIFood) --
-[FoodAppRepo](https://sansfoodapp.netlify.app/)
+[FoodApp](https://sansfoodapp.netlify.app/) --
+[FoodAppRepo](https://github.com/San896/PIFood)
   <h3> SPA, a App of Food Recipes, yo can search, filter and create recipes</h3>
     <img src="./img/Landing.png" alt="failed banner img" width="350" height="300">
     <img src="./img/home.png" alt="failed banner img" width="350" height="300">
     <img src="./img/create.png" alt="failed banner img" width="350" height="300">
+
+
+- ⚡My Wheather App 
+[FoodApp](https://wheathersf.netlify.app/) --
+[FoodAppRepo](https://github.com/San896/WheatherApp)
+  <h3> SPA, a App of Food Recipes, yo can search, filter and create recipes</h3>
+    <img src="./img/wheather.png" alt="failed banner img" width="350" height="300">
+    <img src="./img/wheather2.png" alt="failed banner img" width="350" height="300">
+    
+
+
   <h3> Contact me! </h3>
 
 - 📫 How to reach me **sannlfernandez8@gmail.com**
