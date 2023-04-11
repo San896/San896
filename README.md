@@ -20,8 +20,8 @@
 [FoodApp](https://sansfoodapp.netlify.app/) --
 [FoodAppRepo](https://github.com/San896/PIFood)
   <h3> SPA, a App of Food Recipes, yo can search, filter and create recipes</h3>
-    <img src="./img/Landing.png" alt="failed banner img" width="350" height="300">
-    <img src="./img/home.png" alt="failed banner img" width="350" height="300">
+    <img src="./img/LANDF.png" alt="failed banner img" width="350" height="300">
+    <img src="./img/HOME2.png" alt="failed banner img" width="350" height="300">
     <img src="./img/create.png" alt="failed banner img" width="350" height="300">
 
 
