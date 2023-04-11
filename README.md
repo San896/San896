@@ -16,7 +16,7 @@
     <img src="./img/mp.png" alt="failed banner img" width="350" height="300">
 
 
-- ⚡My Food App 
+- ⚡My Food App .
 [FoodApp](https://sansfoodapp.netlify.app/) --
 [FoodAppRepo](https://github.com/San896/PIFood)
   <h3> SPA, a App of Food Recipes, yo can search, filter and create recipes</h3>
